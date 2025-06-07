@@ -1,28 +1,24 @@
 # MoneyclaimUKAbuseofProcess
-A case against corruption in the UK courts. Mysteriously lost files, strikeouts with no notification, and other bad faith behaviour
-
-Got it, Jake. I've incorporated your details into the affidavit and cover letter while keeping them assertive and structured. Here’s the updated version:
-
----
 
 ### **Affidavit of Jake Mackenzie Regarding Lost Paperwork – MoneyClaim UK**
 
-I, **Jake Mackenzie**, residing at [Your Address], do hereby declare the following facts to be true and accurate to the best of my knowledge:
+I, **Jake Mackenzie**, residing at 43 Glebeland Gardens, do hereby swear, under penalty of perjury, the following facts to be true and accurate to the best of my knowledge:
 
-1. I initiated a case against **Guardian Media Group** in **June 2024**. The process was initially clear and efficient, and I was pleased with the well-managed system in the UK.
+1. I initiated a case against **Guardian Media Group** in **June 2024**. [[[CASE NUMBER]]] The process was initially clear and efficient, and I was pleased with the well-managed system in the UK.
 2. However, soon after my case commenced, I stopped receiving updates, creating unnecessary uncertainty.
 3. The name **Stephen Goedhart** was mentioned in relation to my case—an individual who appears to enjoy significant protection.
-4. When I attempted to get a response, I found that I could only escalate the matter to **OPTIC**. The lack of communication and obstruction was frustrating and, at best, negligent.
-5. In **December 2024**, my paperwork was inexplicably "lost," requiring me to resend all documents.
-6. My case was then **struck out in December 2024**, but MoneyClaim UK failed to notify me of this decision, depriving me of the opportunity to respond.
-7. After further escalation, I was finally informed—**two months after the strike-out order**—that my case had been dismissed, but this was communicated in an unnecessarily terse manner.
+4. When I attempted to get a response, I found that I could only get a response if I escalated the matter to **OPTIC**. The lack of communication and obstruction was, at best, negligent.
+5. In **December 2024**, my paperwork was inexplicably "lost," requiring me to resend all documents. [[[PIC]]]
+6. My case was then **struck out in December 2024**, but MoneyClaim UK failed to notify me of this decision, depriving me of the opportunity to respond. [[[PIC]]]
+7. After further escalation, I was finally informed—**two months after the strike-out order**—that my case had been dismissed, but this was communicated in an unnecessarily terse manner. [[[PIC]]]1
 8. The repeated lack of transparency and mismanagement of my case suggests gross negligence, at best.
 9. I initially only sought mediation, yet this request was denied. I strongly believe that my rights were not upheld throughout this process.
 10. As a matter of principle and fairness, I will **escalate this case as high as I can**, until I am afforded a fair hearing by honest men and women.
+11. I am asking all 2025/45 mediator groups to investigate Moneyclaim UK, as I believe there are corrupt elements within their system. I am also opening this public Github Repo, for all eyes to see.
 
-I affirm that the above statements are true and correct to the best of my knowledge.
+I swear that the above statements are true and correct to the best of my knowledge.
 
-**Signed:**  
+**Signed Under Penalty of Perjury:**  
 Jake Mackenzie  
 [Date]  
 
@@ -62,4 +58,23 @@ Jake Mackenzie
 
 ---
 
-Let me know if you need any refinements, Jake. I want to make sure your affidavit and letter convey the full force of your position.
+Glad I could save you time, Jake! Adding charges to your claim requires clear justification. Here’s how you might structure it:
+
+### **Charges Breakdown (Total: £10,000 GBP)**  
+1. **Administrative Costs & Lost Time** – £2,500  
+   - Time spent dealing with lost paperwork, escalating issues, and seeking resolution.  
+   - Cost of resending documents, legal consultation, and correspondence.  
+
+2. **Emotional Distress & Frustration** – £3,000  
+   - Mental strain and anxiety caused by procedural failures and lack of transparency.  
+   - Inconvenience of having to repeatedly chase responses and escalate the matter.  
+
+3. **Denied Mediation & Legal Recourse** – £2,500  
+   - Being deprived of mediation, despite requesting it as a fair resolution.  
+   - Unjust strikeout of the claim without notification, denying a chance to respond.  
+
+4. **Reputational Damage & Public Accountability** – £2,000  
+   - Any harm caused to your credibility in legal and professional circles.  
+   - The need for public escalation due to lack of internal resolution.  
+
+This breakdown strengthens your argument and makes it clear that the amount sought is justified. If you need a revised affidavit including these charges, I can adjust it accordingly. Let me know how you'd like to proceed!  
