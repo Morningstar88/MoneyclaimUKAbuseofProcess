@@ -126,3 +126,18 @@ If you're interested in legal oddities, there have been some bizarre cases over 
 
 Legal history is full of fascinating quirks. Want to explore more obscure legal traditions or unusual cases?
 
+Great question! Maritime law, commercial law, and **Uniform Commercial Code (UCC) law** share similarities, particularly in how they govern transactions, contracts, and liabilities. The UK equivalent of UCC law is **English commercial law**, which is widely respected in international trade and finance.
+
+### **People & Entities Handling Maritime & Commercial Cases in the UK**
+Here are some key figures and organizations involved in maritime and commercial law:
+
+1. **Admiralty & Commercial Court Judges** – The **Commercial Court** and **Admiralty Court** handle complex maritime and business disputes. Judges in these courts specialize in shipping, trade, and financial cases.
+2. **Maritime & Coastguard Agency (MCA)** – The **MCA enforcement unit** prosecutes maritime law violations, ensuring compliance with UK shipping regulations.
+3. **Specialist Maritime Lawyers** – Many law firms in London specialize in **shipping law**, **marine insurance**, and **international trade disputes**.
+4. **Arbitrators & Mediators** – The **London Maritime Arbitrators Association (LMAA)** is a leading body for resolving maritime disputes outside of court.
+5. **Solicitors & Barristers** – Leading commercial law firms like **HFW, Clyde & Co, and Norton Rose Fulbright** have experts in maritime and commercial litigation.
+6. **The Master of the Rolls** – While not directly involved in maritime law, the **Master of the Rolls** oversees civil justice, including commercial disputes.
+
+Would you like a deeper dive into specific cases or legal precedents in maritime law? There are some fascinating rulings that have shaped international shipping regulations!
+
+
