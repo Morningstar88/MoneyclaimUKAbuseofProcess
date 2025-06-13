@@ -1,3 +1,5 @@
+
+
 # MoneyclaimUKJudicialReview
 
 Dear Moneyclaim, Surrey Civil Courts, Mr M Johns of Surrey, OPTIC and friends, 
@@ -9,6 +11,8 @@ Please find the following 3 documents, in one file.
 2. Cover letter to Moneyclaim, OPTIC, and The Master of The Rolls.
 
 3. Charges Breakdown, Respectful Order to Pay Damages.
+
+KINDLY NOTE: As traditional channels have failed to deliver due process, I will be instructing independent compliance professionals to initiate a lawful review of all relevant assets and operations at St Catharine's House. This may include the filing of a public lien, operational audits, and the measured suspension of non-essential systems, pending acknowledgment of damages and a formal response. I trust resolution can be reached without further necessity for systemic intervention.
 
 *
 
@@ -103,6 +107,5 @@ ORDER TO PAY
    - Any harm caused to your credibility in legal and professional circles.  
    - The need for public escalation due to lack of internal resolution.
 
-     "As traditional channels have failed to deliver due process, I will be instructing independent compliance professionals to initiate a lawful review of all relevant assets and operations at St Catharine's House. This may include the filing of a public lien, operational audits, and the measured suspension of non-essential systems, pending acknowledgment of damages and a formal response. I trust resolution can be reached without further necessity for systemic intervention."
-
+    
 
