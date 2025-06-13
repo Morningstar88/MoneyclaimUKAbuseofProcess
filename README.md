@@ -101,6 +101,8 @@ ORDER TO PAY
 
 4. **Reputational Damage & Public Accountability** – £2,000  
    - Any harm caused to your credibility in legal and professional circles.  
-   - The need for public escalation due to lack of internal resolution.  
+   - The need for public escalation due to lack of internal resolution.
+
+     "As traditional channels have failed to deliver due process, I will be instructing independent compliance professionals to initiate a lawful review of all relevant assets and operations at St Catharine's House. This may include the filing of a public lien, operational audits, and the measured suspension of non-essential systems, pending acknowledgment of damages and a formal response. I trust resolution can be reached without further necessity for systemic intervention."
 
 
