@@ -1,6 +1,6 @@
 # MoneyclaimUKJudicialReview
 
-Dear Moneyclaim, Surrey Civil Courts, OPTIC and friends, 
+Dear Moneyclaim, Surrey Civil Courts, Mr M Johns of Surrey, OPTIC and friends, 
 
 Please find the following 3 documents, in one file.
 
@@ -31,7 +31,10 @@ I, **Jake Mackenzie**, residing at 43 Glebeland Gardens, do hereby swear, under 
 7. ![image](https://github.com/user-attachments/assets/5ebbd37c-471a-4495-86ee-b334ee0e5fb1)
 
 8. My case was then **struck out on December 3rd 2024**, but MoneyClaim UK failed to notify me of this decision, depriving me of the opportunity to respond. Not informing someone of a strike out order is *negligent*.
-9. After further escalation to OPTIC (who were fairly helfpful), I was tersely informed, by M Johns of Surrey Civil Courts, **one months after the strike-out order**—that my case had been struck out.
+9. After further escalation to OPTIC (who were fairly helfpful), I was tersely informed, by M Johns of Surrey Civil Courts, **one month after the strike-out order**—that my case had been struck out.
+
+10. ![image](https://github.com/user-attachments/assets/a1cb44c7-7418-401c-9ae8-7badba50892a)
+
 
 How can I contest a strike out order if I am not informed of it, either by email or His Majesty's postal service?
 
@@ -62,7 +65,7 @@ Dear Moneyclaim and friends,
 
 I am writing to formally address the mishandling of my case L7QZ9D42, which began in **June 2024** against **Guardian Media Group**. Despite initially smooth proceedings, I encountered severe obstacles due to a lack of communication, unexplained delays, and the ultimate loss of my paperwork in **December 2024**.  
 
-After resubmitting the required documents, my case was **struck out later that month**, yet MoneyClaim UK failed to notify me, depriving me of the opportunity to respond. It was only after further escalation that I was tersely informed **two months later** that my claim had been dismissed—an unacceptable delay that points to negligence.  
+After resubmitting the required documents, my case was **struck out later that month**, yet MoneyClaim UK failed to notify me, depriving me of the opportunity to respond. It was only after further escalation that I was tersely informed **one month later** that my claim had been dismissed—an unacceptable delay that points to negligence. It is standard UK legal practice to notify all parties when a case is struck out, including in the small claims track. I was not informed of the strike-out order until a month later—only after escalating to OPTIC—which deprived me of timely options to respond or appeal. This constitutes a serious procedural oversight and may amount to administrative negligence. I am requesting a review of the case file and communication records to clarify how this failure occurred.
 
 My **request for mediation was denied**, despite my reasonable expectation that my rights would be upheld. Given these failures, I am demanding a thorough review of my case, along with a clear explanation of why these procedural errors occurred.  
 
